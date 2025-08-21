@@ -24,7 +24,7 @@
                     <%= user.getEmail() %>
                 </p>
 
-                <p><a href="/maven-servlet-demo/emailList">Back to Join Form</a></p>
+                <p><a href="/emailList">Back to Join Form</a></p>
             </body>
 
             </html>
