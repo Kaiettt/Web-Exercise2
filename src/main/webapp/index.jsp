@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h2 style="font-size: 24px; color: #333;">Nguyen Anh Kiet - 23110246</h2>
+    <h2 style="font-size: 24px; color: #333;">Ten: Nguyen Anh Kiet - MSSV: 23110246</h2>
     <h1>Join our email list</h1>
     <p>To join our email list, enter your name and email address below.</p>
 
